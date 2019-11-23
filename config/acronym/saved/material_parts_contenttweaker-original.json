@@ -1,3 +1,5 @@
 {
-  "materialMappings": {}
+  "materialMappings": {
+    "titanium_ore_sample": 0
+  }
 }

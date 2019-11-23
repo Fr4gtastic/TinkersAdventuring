@@ -83,7 +83,6 @@ minecraft:villager
 minecraft:ender_crystal
 quark:gravisand
 quark:chest_passenger
-quark:seat
 quark:stoneling
 quark:archaeologist
 quark:foxhound
@@ -93,6 +92,7 @@ quark:frog
 quark:pirate
 quark:crab
 quark:wraith
+quark:seat
 quark:flat_item_frame
 quark:leash_knot
 quark:colored_item_frame
