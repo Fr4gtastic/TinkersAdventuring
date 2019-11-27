@@ -78,4 +78,3 @@ frost.craftable = true;
 frost.localizedName = "Frost";
 frost.representativeItem = <item:netherex:frost_rod>;
 frost.register();
-
