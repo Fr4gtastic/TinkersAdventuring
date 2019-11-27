@@ -1,6 +1,8 @@
 import mods.tconstruct.Melting;
 
+Melting.addRecipe(<liquid:adamantite> * 144, <progressivecore:chunk_adamantite>, 500);
 Melting.addRecipe(<liquid:blood> * 200, <biomesoplenty:flesh>);
+Melting.addRecipe(<liquid:blood> * 360, <charm:rotten_flesh_block>);
 Melting.addRecipe(<liquid:blood> * 50, <biomesoplenty:fleshchunk>);
 Melting.addRecipe(<liquid:glass> * 250, <quark:glass_shards>);
 Melting.addRecipe(<liquid:liquid_awakened_draconium> * 1296, <draconicevolution:draconic_block>, 4000);
@@ -16,4 +18,8 @@ Melting.addRecipe(<liquid:molten_ironwood> * 144, <twilightforest:ironwood_ingot
 Melting.addRecipe(<liquid:molten_ironwood> * 288, <twilightforest:ironwood_raw>);
 Melting.addRecipe(<liquid:netherite> * 144, <progressivecore:chunk_netherite>);
 Melting.addRecipe(<liquid:orichalcum> * 144, <progressivecore:chunk_orichalcum>, 210);
+Melting.addRecipe(<liquid:redstone> * 1296, <ore:blockRedstone>);
+Melting.addRecipe(<liquid:redstone> * 144, <ore:dustRedstone>);
+Melting.addRecipe(<liquid:refinedglowstone> * 1296, <ore:glowstone>);
+Melting.addRecipe(<liquid:refinedglowstone> * 144, <ore:dustGlowstone>);
 Melting.addRecipe(<liquid:titanium> * 144, <progressivecore:chunk_titanium>, 684);

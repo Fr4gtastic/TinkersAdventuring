@@ -28,3 +28,15 @@ moltenNetherite.luminosity = 10;
 moltenNetherite.density = 2000;
 moltenNetherite.viscosity = 10000;
 moltenNetherite.register();
+
+val redstone = VanillaFactory.createFluid("redstone", Color.fromHex("ff0000"));
+redstone.luminosity = 30;
+redstone.density = 2000;
+redstone.viscosity = 10000;
+redstone.register();
+
+val modularium = VanillaFactory.createFluid("modularium", Color.fromHex("ff4900"));
+modularium.luminosity = 10;
+modularium.density = 2000;
+modularium.viscosity = 10000;
+modularium.register();
