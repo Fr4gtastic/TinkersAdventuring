@@ -1,7 +1,10 @@
 {
   "savedSubBlockNames": {
     "0": {
-      "0": "titanium_ore_sample"
+      "0": "titanium_ore_sample",
+      "1": "orichalcum_ore_sample",
+      "2": "luminium_ore_sample",
+      "3": "mithril_ore_sample"
     }
   }
 }

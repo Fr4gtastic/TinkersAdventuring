@@ -1,5 +1,8 @@
 {
   "materialMappings": {
+    "orichalcum_ore_sample": 2,
+    "mithril_ore_sample": 1,
+    "luminium_ore_sample": 3,
     "titanium_ore_sample": 0
   }
 }
