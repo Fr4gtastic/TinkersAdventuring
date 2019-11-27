@@ -1,0 +1,18 @@
+{
+    "machine": "steam_engine",
+    "registryName": "steam_engine_generate_energy",
+    "recipeTime": 1,
+    "requirements": [
+        {
+            "type": "modularmachinery:fluid",
+            "io-type": "input",
+			"fluid": "steam",
+			"amount": 100
+        },
+        {
+            "type": "modularmachinery:energy",
+            "io-type": "output",
+            "energyPerTick": 50
+        }
+    ]
+}
