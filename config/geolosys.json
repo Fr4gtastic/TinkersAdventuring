@@ -399,6 +399,25 @@
 				1
 			],
 			"density": 1.0
+		},
+		{
+			"blocks": [
+				"progressivecore:ore_titanium",
+				100
+			],
+			"samples": [
+				"contenttweaker:sub_block_holder_0",
+				100
+			],
+			"yMin": 0,
+			"yMax": 16,
+			"chance": 3,
+			"size": 15,
+			"dimBlacklist": [
+				-1,
+				1
+			],
+			"density": 1.0
 		}
 	],
 	"stones": [{
