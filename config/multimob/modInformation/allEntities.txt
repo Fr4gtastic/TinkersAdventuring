@@ -112,12 +112,12 @@ primitivemobs:flame_spit
 primitivemobs:thrown_block
 primitivemobs:primitive_egg
 primitivemobs:spider_egg
+quark:chest_passenger
 quark:flat_item_frame
 quark:leash_knot
 quark:colored_item_frame
 quark:glass_item_frame
 quark:seat
-quark:gravisand
 quark:arrow_ender
 quark:arrow_explosive
 quark:arrow_torch
@@ -132,7 +132,7 @@ quark:ashen
 quark:pirate
 quark:crab
 quark:wraith
-quark:chest_passenger
+quark:gravisand
 biomesoplenty:mudball
 biomesoplenty:bop_boat
 biomesoplenty:wasp
