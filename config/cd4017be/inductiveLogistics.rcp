@@ -72,7 +72,6 @@ INIT() {
 	add("shaped", it("tile.fluid_outlet"), " 3 /020/010", mat, it("minecraft:iron_bars"), it("minecraft:piston"), it("tile.tank"):1);
 	add("shaped", it("tile.drop_interface"), "000/123/000", "plankWood", it("minecraft:hopper"), it("minecraft:ender_eye"), it("minecraft:dropper"));
 	add("shaped", it("tile.entity_interface"), "010/020", "ingotIron", it("minecraft:lead"), it("tile.inv_connector"));
-	add("shaped", it("tile.block_placer"), "010/232/010", "ingotIron", it("minecraft:ender_eye"), it("minecraft:piston"), it("minecraft:dispenser"));
 	add("shaped", it("item.portable_craft"), "021/343", it("itemPipeE"), it("itemPipeI"), it("tile.auto_craft"), "string", "slabWood");
 	add("shaped", it("item.remote_inv"), "021/343", it("itemPipeE"), it("itemPipeI"), it("minecraft:ender_chest"), "string", "gemDiamond");
 	
