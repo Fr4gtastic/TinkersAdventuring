@@ -1,6 +1,7 @@
 {
 	"registryname": "steam_engine",
 	"localizedname": "Steam Engine",
+	"color": "A9A9A9",
 	"requires-blueprint": true,
     "parts": [
         {
