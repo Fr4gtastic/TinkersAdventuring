@@ -1,17 +1,18 @@
-recipes.removeByRecipeName("prospectors:prospector_high");
-recipes.removeByRecipeName("prospectors:prospector_med");
-recipes.removeByRecipeName("prospectors:prospector_best");
-recipes.removeByRecipeName("tinker_io:stirlingengine");
-recipes.removeByRecipeName("tinker_io:orecrusher_0");
-recipes.removeByRecipeName("tinker_io:orecrusher_1");
 recipes.removeByRecipeName("aether_legacy:zanite_pickaxe");
+recipes.removeByRecipeName("biomesoplenty:coal_from_ash");
 recipes.removeByRecipeName("metallurgy:charcoal_block");
+recipes.removeByRecipeName("modularmachinery:modularium_ingot");
 recipes.removeByRecipeName("progressivecore:light_saber_hilt");
-recipes.removeByRecipeName("progressivecore:smelter_titan");
 recipes.removeByRecipeName("progressivecore:smelter");
 recipes.removeByRecipeName("progressivecore:smelter_advanced");
 recipes.removeByRecipeName("progressivecore:smelter_infernal");
-recipes.removeByRecipeName("biomesoplenty:coal_from_ash");
+recipes.removeByRecipeName("progressivecore:smelter_titan");
+recipes.removeByRecipeName("prospectors:prospector_best");
+recipes.removeByRecipeName("prospectors:prospector_high");
+recipes.removeByRecipeName("prospectors:prospector_med");
+recipes.removeByRecipeName("tinker_io:orecrusher_0");
+recipes.removeByRecipeName("tinker_io:orecrusher_1");
+recipes.removeByRecipeName("tinker_io:stirlingengine");
 
 val fiber_string = <ore:fiberString>;
 
