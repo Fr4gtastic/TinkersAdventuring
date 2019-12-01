@@ -38,8 +38,6 @@ leather.addItem(<item:minecraft:leather>);
 leather.addItem(<item:minecraft:rabbit_hide>, 4);
 leather.addItem(<item:mysticalworld:pelt>);
 leather.addItem(<item:natura:materials:6>);
-leather.addItem(<item:ore:peltWolf>);
-leather.addItem(<item:ore:peltBear>);
 leather.addItem(<item:thebetweenlands:items_misc:4>);
 leather.addMaterialTrait("lightweight_armor");
 leather.addPlatesMaterialStats(0.9, 4, 0.5);
