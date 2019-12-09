@@ -1,3 +1,5 @@
+#norun
+
 import mods.tcomplement.highoven.HighOven;
 import mods.tcomplement.highoven.MixRecipeBuilder;
 
