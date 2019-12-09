@@ -6,11 +6,18 @@ import mods.contenttweaker.MaterialPartData;
 import mods.contenttweaker.MaterialSystem;
 
 val materials = {
-	"titanium": MaterialSystem.getMaterialBuilder().setName("Titanium").setColor(Color.fromHex("8892aa")).build(),
+	"adamantite": MaterialSystem.getMaterialBuilder().setName("Adamantite").setColor(Color.fromHex("971b1e")).build(),
 	"mithril": MaterialSystem.getMaterialBuilder().setName("Mithril").setColor(Color.fromHex("8193b3")).build(),
 	"orichalcum": MaterialSystem.getMaterialBuilder().setName("Orichalcum").setColor(Color.fromHex("74b45d")).build(),
-	"adamantite": MaterialSystem.getMaterialBuilder().setName("Adamantite").setColor(Color.fromHex("971b1e")).build()
+	"titanium": MaterialSystem.getMaterialBuilder().setName("Titanium").setColor(Color.fromHex("8892aa")).build()
 } as Material[string];
+	
+val clusters = [
+] as Material[];
+
+for material in clusters {
+	material.registerPart("cluster");
+}
 
 val oreSampleDrops = {
 	"titanium": "progressivecore:chunk_titanium",

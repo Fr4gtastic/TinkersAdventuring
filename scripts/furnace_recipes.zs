@@ -8,7 +8,6 @@ furnace.remove(<geolosys:ingot:6>);
 furnace.remove(<geolosys:ingot:7>);
 furnace.remove(<geolosys:ingot>);
 furnace.remove(<iceandfire:silver_ingot>);
-furnace.remove(<magicalsmither:aerialiteingot>);
 furnace.remove(<metallurgy:adamantine_ingot>);
 furnace.remove(<metallurgy:alduorite_ingot>);
 furnace.remove(<metallurgy:amordrine_ingot>);
