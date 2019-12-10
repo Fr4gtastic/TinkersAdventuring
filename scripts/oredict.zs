@@ -22,3 +22,6 @@ obsidian.add(<progressivecore:block_obsidian>);
 val ash = <ore:ash>;
 ash.add(<iceandfire:ash>);
 ash.add(<biomesoplenty:ash_block>);
+
+val sulfurDust = <ore:dustSulfur>;
+sulfurDust.add(<thebetweenlands:items_misc:18>);
