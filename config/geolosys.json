@@ -400,6 +400,49 @@
                 1
             ],
             "density": 1.0
+        },
+        {
+            "blocks": [
+                "progressivecore:ore_tungsten",
+                100
+            ],
+            "samples": [
+                "contenttweaker:sub_block_holder_0:4",
+                100
+            ],
+            "yMin": 0,
+            "yMax": 30,
+            "chance": 3,
+            "size": 15,
+            "dimBlacklist": [-1,
+                1
+            ],
+            "density": 1.0
+        },
+        {
+            "blocks": [
+                "taiga:dilithium_ore",
+                100
+            ],
+            "samples": [
+                "contenttweaker:sub_block_holder_0:12",
+                100
+            ],
+            "yMin": 30,
+            "yMax": 60,
+            "chance": 4,
+            "size": 12,
+            "dimBlacklist": [-1,
+                1
+            ],
+            "density": 1.0,
+            "biomes": [
+                "minecraft:desert",
+                "minecraft:mutated_desert",
+                "minecraft:river",
+                "minecraft:ocean"
+            ],
+            "isWhitelist": true
         }
     ],
     "stones": [{
