@@ -81,3 +81,6 @@ furnace.remove(<thebetweenlands:items_misc:11>);
 furnace.remove(<thebetweenlands:octine_ingot>);
 furnace.remove(<twilightforest:ironwood_ingot>);
 furnace.remove(<twilightforest:knightmetal_ingot>);
+
+furnace.addRecipe(<minecraft:flower_pot>, <charcoal_pit:clay_flowerpot>);
+furnace.addRecipe(<charcoal_pit:clay_pot>, <charcoal_pit:ceramic_pot>);
