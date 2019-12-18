@@ -25,3 +25,6 @@ ash.add(<biomesoplenty:ash_block>);
 
 val sulfurDust = <ore:dustSulfur>;
 sulfurDust.add(<thebetweenlands:items_misc:18>);
+
+val amberBlock = <ore:blockAmber>;
+amberBlock.add(<erebus:amber>);
