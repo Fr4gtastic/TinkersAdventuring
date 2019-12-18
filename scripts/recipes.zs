@@ -1,15 +1,19 @@
 recipes.removeByRecipeName("aether_legacy:zanite_pickaxe");
 recipes.removeByRecipeName("biomesoplenty:coal_from_ash");
+recipes.removeByRecipeName("charcoal_pit:bronze_hatch");
+recipes.removeByRecipeName("charcoal_pit:straw");
+recipes.removeByRecipeName("charcoal_pit:thatch");
 recipes.removeByRecipeName("metallurgy:charcoal_block");
 recipes.removeByRecipeName("modularmachinery:modularium_ingot");
 recipes.removeByRecipeName("progressivecore:light_saber_hilt");
-recipes.removeByRecipeName("progressivecore:smelter");
 recipes.removeByRecipeName("progressivecore:smelter_advanced");
 recipes.removeByRecipeName("progressivecore:smelter_infernal");
 recipes.removeByRecipeName("progressivecore:smelter_titan");
+recipes.removeByRecipeName("progressivecore:smelter");
 recipes.removeByRecipeName("prospectors:prospector_best");
 recipes.removeByRecipeName("prospectors:prospector_high");
 recipes.removeByRecipeName("prospectors:prospector_med");
+recipes.removeByRecipeName("tconstruct:common/flint");
 recipes.removeByRecipeName("tinker_io:orecrusher_0");
 recipes.removeByRecipeName("tinker_io:orecrusher_1");
 recipes.removeByRecipeName("tinker_io:stirlingengine");
@@ -19,6 +23,7 @@ val fiber_string = <ore:fiberString>;
 recipes.replaceAllOccurences(<tinkersurvival:grass_string>, fiber_string);
 recipes.replaceAllOccurences(<tinkerscompendium:roughspuncord>, fiber_string);
 recipes.replaceAllOccurences(<iceandfire:ash>, <ore:ash>);
+recipes.replaceAllOccurences(<minecraft:coal:1>, <ore:charcoal>);
 
 val awakened_core = <draconicevolution:awakened_core>;
 val draconic_ingot = <draconicevolution:draconic_ingot>;
