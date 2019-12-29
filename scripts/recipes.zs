@@ -55,4 +55,4 @@ recipes.addShaped("indlog.fluid_extract", indlog_fluid_valve, [[steel_ingot],
 															   [bamboo_valve],
 															   [steel_ingot]]);
 
-recipes.addShaped("minecraft:torch_charcoal", <minecraft:torch> * 4, [[<ore:charcoal>], [<ore:stickWood>]]);
+recipes.addShaped("minecraft.torch_charcoal", <minecraft:torch> * 4, [[<ore:charcoal>], [<ore:stickWood>]]);
