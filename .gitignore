@@ -14,6 +14,7 @@ config/splash.properties
 crafttweaker.log
 crash-reports/
 dropt.log
+dumps/
 fonts/
 journeymap/
 llibrary/
