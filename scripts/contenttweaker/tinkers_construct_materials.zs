@@ -7,8 +7,6 @@ import mods.contenttweaker.tconstruct.Material;
 import mods.contenttweaker.tconstruct.MaterialBuilder;
 import modtweaker.tconstruct.ITICMaterial;
 
-
-
 val ironwood = ExtendedMaterialBuilder.create("ironwood");
 ironwood.addBowMaterialStats(2, 1.5, 8);
 ironwood.addCoreMaterialStats(12, 16.0);
@@ -39,10 +37,10 @@ leather.addItem(<item:minecraft:rabbit_hide>, 4);
 leather.addItem(<item:mysticalworld:pelt>);
 leather.addItem(<item:natura:materials:6>);
 leather.addItem(<item:thebetweenlands:items_misc:4>);
-leather.addItem(<minecraft:leather_helmet>, 1, 432);
-leather.addItem(<minecraft:leather_chestplate>, 1, 864);
-leather.addItem(<minecraft:leather_leggings>, 1, 576);
-leather.addItem(<minecraft:leather_boots>, 1, 288);
+leather.addItem(<item:minecraft:leather_helmet>, 1, 432);
+leather.addItem(<item:minecraft:leather_chestplate>, 1, 864);
+leather.addItem(<item:minecraft:leather_leggings>, 1, 576);
+leather.addItem(<item:minecraft:leather_boots>, 1, 288);
 leather.addMaterialTrait("lightweight_armor");
 leather.addPlatesMaterialStats(0.9, 4, 0.5);
 leather.addTrimMaterialStats(4);
@@ -83,18 +81,3 @@ frost.craftable = true;
 frost.localizedName = "Frost";
 frost.representativeItem = <item:netherex:frost_rod>;
 frost.register();
-
-val stone = <ticonmaterial:stone>;
-stone.addItem(<minecraft:stone_shovel>);
-stone.addItem(<minecraft:stone_sword>, 1, 288);
-stone.addItem(<minecraft:stone_pickaxe>, 1, 432);
-stone.addItem(<minecraft:stone_hoe>, 1, 288);
-stone.addItem(<minecraft:stone_axe>, 1, 432);
-
-val wood = <ticonmaterial:wood>;
-wood.addItem(<minecraft:wooden_shovel>);
-wood.addItem(<minecraft:wooden_sword>, 1, 288);
-wood.addItem(<minecraft:wooden_pickaxe>, 1, 432);
-wood.addItem(<minecraft:wooden_hoe>, 1, 288);
-wood.addItem(<minecraft:wooden_axe>, 1, 432);
-wood.addItem(<minecraft:shield>, 1, 432);
