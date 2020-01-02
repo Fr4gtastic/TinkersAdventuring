@@ -12,3 +12,7 @@ Alloy.addRecipe(<liquid:imperomite_fluid> * 2, [<liquid:duranite_fluid> * 3, <li
 Alloy.removeRecipe(<liquid:steel>);
 
 Alloy.addRecipe(<liquid:nichrome> * 20, [<liquid:nickel> * 12, <liquid:chromium> * 3, <liquid:iron> * 5]);
+
+Alloy.addRecipe(<liquid:galvanizedsteel> * 20, [<liquid:steel> * 19, <liquid:zinc>]);
+
+Alloy.addRecipe(<liquid:stainlesssteel> * 5, [<liquid:steel> * 4, <liquid:chromium>]);
