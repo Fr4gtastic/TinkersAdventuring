@@ -1,3 +1,5 @@
+#norun
+
 import mods.dropt.Dropt;
 
 Dropt.list("ore_drops") 

@@ -1,12 +1,4 @@
 furnace.remove(<draconicevolution:draconium_ingot>);
-furnace.remove(<geolosys:ingot:1>);
-furnace.remove(<geolosys:ingot:2>);
-furnace.remove(<geolosys:ingot:3>);
-furnace.remove(<geolosys:ingot:4>);
-furnace.remove(<geolosys:ingot:5>);
-furnace.remove(<geolosys:ingot:6>);
-furnace.remove(<geolosys:ingot:7>);
-furnace.remove(<geolosys:ingot>);
 furnace.remove(<iceandfire:silver_ingot>);
 furnace.remove(<metallurgy:adamantine_ingot>);
 furnace.remove(<metallurgy:alduorite_ingot>);
