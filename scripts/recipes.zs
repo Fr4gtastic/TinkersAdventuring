@@ -1,4 +1,5 @@
 recipes.removeByRecipeName("aether_legacy:zanite_pickaxe");
+recipes.removeByRecipeName("basemetals:mithril_blend_base_alternate");
 recipes.removeByRecipeName("biomesoplenty:coal_from_ash");
 recipes.removeByRecipeName("charcoal_pit:bronze_hatch");
 recipes.removeByRecipeName("charcoal_pit:straw");
@@ -13,6 +14,7 @@ recipes.removeByRecipeName("progressivecore:smelter");
 recipes.removeByRecipeName("prospectors:prospector_best");
 recipes.removeByRecipeName("prospectors:prospector_high");
 recipes.removeByRecipeName("prospectors:prospector_med");
+recipes.removeByRecipeName("tcomplement-steelworks/charcoal_block-modified");
 recipes.removeByRecipeName("tconstruct:common/flint");
 recipes.removeByRecipeName("tinker_io:orecrusher_0");
 recipes.removeByRecipeName("tinker_io:orecrusher_1");
