@@ -81,3 +81,6 @@ frost.craftable = true;
 frost.localizedName = "Frost";
 frost.representativeItem = <item:netherex:frost_rod>;
 frost.register();
+
+val flint = <ticonmaterial:flint>;
+flint.addItem(<item:tinkersurvival:flint_shard>, 2);
