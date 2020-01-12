@@ -24,12 +24,6 @@ recipes.replaceAllOccurences(<iceandfire:ash>, <ore:ash>);
 recipes.replaceAllOccurences(<minecraft:coal:1>, <ore:charcoal>);
 recipes.replaceAllOccurences(<thebetweenlands:items_misc:18>, <ore:dustSulfur>);
 
-val awakened_core = <draconicevolution:awakened_core>;
-val draconic_ingot = <draconicevolution:draconic_ingot>;
-val wyvern_core = <draconicevolution:wyvern_core>;
-val nether_star = <minecraft:nether_star>;
-val chaotic_core = <draconicevolution:chaotic_core>;
-val chaos_shard = <draconicevolution:chaos_shard>;
 val indlog_item_pipe = <indlog:item_pipe>;
 val steel_ingot = <ore:ingotSteel>;
 val quark_pipe = <quark:pipe>;
@@ -38,12 +32,6 @@ val bamboo_pipe = <erebus:bamboo_pipe>;
 val bamboo_valve = <erebus:bamboo_pipe_extract>;
 val indlog_fluid_valve = <indlog:fluid_pipe:2>;
 
-recipes.addShaped("draconicevolution.awakened_core", awakened_core, [[draconic_ingot, wyvern_core, draconic_ingot],
-																	 [wyvern_core, nether_star, wyvern_core],
-																	 [draconic_ingot, wyvern_core, draconic_ingot]]);
-recipes.addShaped("draconicevolution.chaotic_core", chaotic_core, [[draconic_ingot, awakened_core, draconic_ingot],
-																   [awakened_core, chaos_shard, awakened_core],
-																   [draconic_ingot, awakened_core, draconic_ingot]]);
 recipes.addShaped("indlog.item_pipe", indlog_item_pipe * 3, [[steel_ingot, steel_ingot, steel_ingot],
 															 [quark_pipe, quark_pipe, quark_pipe],
 															 [steel_ingot, steel_ingot, steel_ingot]]);

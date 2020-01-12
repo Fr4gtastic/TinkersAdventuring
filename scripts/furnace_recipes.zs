@@ -9,7 +9,6 @@ furnace.remove(<basemetals:nichrome_ingot>);
 furnace.remove(<basemetals:nickel_ingot>);
 furnace.remove(<basemetals:pewter_ingot>);
 furnace.remove(<biomesoplenty:gem:2>);
-furnace.remove(<draconicevolution:draconium_ingot>);
 furnace.remove(<iceandfire:silver_ingot>);
 furnace.remove(<metallurgy:adamantine_ingot>);
 furnace.remove(<metallurgy:alduorite_ingot>);
