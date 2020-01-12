@@ -20,12 +20,9 @@ recipes.removeByRecipeName("tinker_io:orecrusher_0");
 recipes.removeByRecipeName("tinker_io:orecrusher_1");
 recipes.removeByRecipeName("tinker_io:stirlingengine");
 
-val fiber_string = <ore:fiberString>;
-
-recipes.replaceAllOccurences(<tinkersurvival:grass_string>, fiber_string);
-recipes.replaceAllOccurences(<tinkerscompendium:roughspuncord>, fiber_string);
 recipes.replaceAllOccurences(<iceandfire:ash>, <ore:ash>);
 recipes.replaceAllOccurences(<minecraft:coal:1>, <ore:charcoal>);
+recipes.replaceAllOccurences(<thebetweenlands:items_misc:18>, <ore:dustSulfur>);
 
 val awakened_core = <draconicevolution:awakened_core>;
 val draconic_ingot = <draconicevolution:draconic_ingot>;

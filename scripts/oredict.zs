@@ -1,14 +1,5 @@
 #priority 100
 
-val fiber = <ore:fiber>;
-fiber.add(<tinkerscompendium:grassfiber>, <tinkersurvival:grass_fiber>);
-
-val fiberString = <ore:fiberString>;
-fiberString.add(<tinkersurvival:grass_string>, <tinkerscompendium:roughspuncord>);
-
-val roughspunBlock = <ore:blockRoughspun>;
-roughspunBlock.add(<tinkerscompendium:roughspunitemblock>);
-
 val charcoalBlock = <ore:blockCharcoal>;
 charcoalBlock.remove(<metallurgy:charcoal_block>);
 charcoalBlock.add(<morecharcoal:apple_charcoal_block>);
